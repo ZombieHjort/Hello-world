@@ -1,2 +1,2 @@
 # Hello-world
-a repository. 
+I need to finish this  read me to finish hello world. :(. 
